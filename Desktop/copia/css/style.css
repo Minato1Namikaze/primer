@@ -1,0 +1,138 @@
+body{
+    margin: 0%;
+  }
+  nav {
+    text-align: right;
+    background-color: darkgray;
+  }
+  
+  .logo {
+    margin-right: 68%;
+    height: 55%;
+    width: 65px;
+    margin-top: 12px;
+  }
+  
+  .navegador-items {
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 10px;
+    font-size: 22px;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .encabezado {
+    text-align: center;
+    color: darkblue;
+    font-size: 40px;
+  }
+  
+  #cita {
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    color: blue;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-left: 20px;
+    color: chocolate;
+    font-family: cursive;
+  }
+  
+  h3 {
+    font-size: 25px;
+    margin-left: 20px;
+    color: chocolate;
+    font-family: cursive;
+  }
+  
+  #virtual {
+    margin: 2em;
+  }
+  
+  .footer {
+    background: darkgray;
+    text-align: center;
+  }
+  
+  #city {
+    padding: 20px;
+  }
+  
+  #copyright {
+    padding-bottom: 20px;
+    margin-bottom: 0;
+  }
+  .venta {
+    border: 2px outset;
+    margin-bottom: 20px;
+  }
+  .articulos {
+    text-align: center;
+    color: crimson;
+    font-size: 40px;
+  }
+  .televisor {
+    display: inline-block;
+    margin: 4%;
+    margin-left: 8%;
+  }
+  
+  .computadoras {
+    display: inline-block;
+    margin-left: 8%;
+  }
+  
+  .laptop {
+    display: inline-block;
+    margin-left: 8%;
+  }
+  .text {
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    color: blue;
+  }
+  
+  form {
+    margin: 15px;
+  }
+  
+  label {
+    display: block;
+    font-size: 20px;
+    color: cornflowerblue;
+    font-family: cursive;
+  }
+  
+  input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 90%;
+    padding: 12px;
+    font-size: 18px;
+  }
+  
+  textarea {
+    margin-top: 10px;
+    width: 50%;
+    padding: 21%;
+  }
+  
+  .send {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background: cornflowerblue;
+    color: white;
+    font-size: 20px;
+  }
